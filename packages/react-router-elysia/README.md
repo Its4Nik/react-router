@@ -1,3 +1,3 @@
-ElysiaJS server request handler for React Router.
+[ElysiaJS](https://elysiajs.com) server request handler for React Router.
 
 bun add @react-router/elysia
